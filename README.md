@@ -3,3 +3,4 @@ RUN the app: [![Open in MATLAB Online](https://www.mathworks.com/images/responsi
 
 This is a MATLAB app that reads & visualizes data from [ThingSpeak WeatherStation](https://thingspeak.com/channels/12397)
 
+![App Screenshot](/images/appScreenshot.png)

@@ -1,7 +1,7 @@
 classdef WeatherChart < matlab.graphics.chartcontainer.ChartContainer
 %WeatherChart Displays plots from the ThingSpeak weather station
-
-% Ex. weather = thingSpeakRead(12397,'DateRange',[(datetime("today") - days(2)) datetime],'OutputFormat','table')
+%  
+% weather = thingSpeakRead(12397,'DateRange',[(datetime("today") - days(2)) datetime],'OutputFormat','table')
 %     w = WeatherChart('Data',weather);
 %
 
